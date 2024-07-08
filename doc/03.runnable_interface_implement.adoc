@@ -61,13 +61,9 @@ link:exam/exam-03-03.adoc[Exam-03. Thread pool을 이용해 RunnableCounter를 �
 ---
 
 ifndef::env-github[]
-
 link:../index.adoc[돌아가기]
-
 endif::[]
 
 ifdef::env-github[]
-
-[돌아가기](../README.md)
-
+link:../README.md[돌아가기]
 endif::[]

@@ -215,6 +215,7 @@ link:https://www.baeldung.com/java-semaphore[Semaphores in Java]
 
 link:https://www.baeldung.com/java-mutex[Using a Mutex Object in Java]
 
+---
 
 ifndef::env-github[]
 link:../index.adoc[돌아가기]

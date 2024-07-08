@@ -58,13 +58,9 @@ link:quiz/quiz-02-04.adoc[Quiz-04. ThreadCounter class의 instance를 2개 이�
 ---
 
 ifndef::env-github[]
-
 link:../index.adoc[돌아가기]
-
 endif::[]
 
 ifdef::env-github[]
-
-[돌아가기](../README.md)
-
+link:../README.md[돌아가기]
 endif::[]
